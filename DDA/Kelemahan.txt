@@ -1,0 +1,2 @@
+1. X1 tidak bisa lebih besar atau samadengan x2. begitupun dengan Y
+2. cuman bisa di kuadran 1
